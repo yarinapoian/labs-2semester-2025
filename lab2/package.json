@@ -1,0 +1,12 @@
+{
+  "name": "my-first-package",
+  "version": "1.0.0",
+  "description": "i create this package because i need to learn something new",
+  "main": "lab2_2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Yarina Poian",
+  "license": "ISC"
+}

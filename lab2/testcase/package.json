@@ -1,0 +1,15 @@
+{
+  "name": "testcaseproject",
+  "version": "1.0.0",
+  "description": "i need this to make sure everything will work correctly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yarina Poian",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "my-first-package": "file::.."
+  }
+}
